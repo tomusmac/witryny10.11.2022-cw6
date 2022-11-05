@@ -1,0 +1,45 @@
+* {
+    font-family: Arial;
+    margin: 0;
+}
+.logo, .menu {
+    background-color: rgb(162,117,87);
+    height: 100px;
+    float:left;
+}
+.logo {
+    width:20%;
+}
+.menu {
+    width: 80%;
+    text-align: right;
+}
+.baner,.stopka {
+    background-color: rgb(74,45,32);
+    color:white;
+    padding: 30px;
+    text-align: center;
+    width: 100%;
+    float:left;
+}
+.lewy,.prawy {
+    background-color: rgb(162,117,87);
+    color: white;
+    width:50%;
+    height: 500px;
+    float:left;
+}
+h1 {
+    letter-spacing: 10px;
+}
+a {
+    color: rgb(65,98,85);
+    padding:20px;
+    margin:10px;
+    font-size: 150%;
+    float:right;
+    border: 1px solid rgb(95,98,85)
+}
+#zielona {
+    text-decoration: line-through;
+}

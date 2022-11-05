@@ -37,8 +37,8 @@ a {
     padding:20px;
     margin:10px;
     font-size: 150%;
-    float:right;
-    border: 1px solid rgb(95,98,85)
+    border: 1px solid rgb(95,98,85);
+    line-height: 100px;
 }
 #zielona {
     text-decoration: line-through;
